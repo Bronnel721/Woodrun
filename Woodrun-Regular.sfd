@@ -439,6 +439,7 @@ SplineSet
  619.06640625 6.2197265625 l 1xc0
 EndSplineSet
 Validated: 1
+Kerns2: 2 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 41 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: M
@@ -905,6 +906,7 @@ LayerCount: 2
 Fore
 Refer: 14 76 N 1 0 0 1 0 0 2
 Validated: 1
+Kerns2: 2 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 41 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: m
