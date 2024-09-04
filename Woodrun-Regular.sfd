@@ -496,7 +496,7 @@ SplineSet
  225.708007812 400.825195312 l 5
  225.708007812 400.825195312 247.697265625 393.764648438 276.770507812 393.764648438 c 4
 EndSplineSet
-Kerns2: 7 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Kerns2: 20 -70 "'kern' Horizontal Kerning in Latin lookup 0-1" 27 -70 "'kern' Horizontal Kerning in Latin lookup 0-1" 7 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: J
@@ -909,7 +909,7 @@ VStem: 65.1885 194.598<0.855856 132.612> 388.568 274.472<421.121 532.026>
 LayerCount: 2
 Fore
 Refer: 17 80 N 1 0 0 1 0 0 2
-Kerns2: 7 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Kerns2: 20 -70 "'kern' Horizontal Kerning in Latin lookup 0-1" 27 -70 "'kern' Horizontal Kerning in Latin lookup 0-1" 7 -20 "'kern' Horizontal Kerning in Latin lookup 0-1" 51 -20 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: q
