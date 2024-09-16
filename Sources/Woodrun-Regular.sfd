@@ -1922,6 +1922,7 @@ SplineSet
  275.961914062 809.576171875 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 85 -130 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: backslash
@@ -1938,6 +1939,7 @@ SplineSet
  142.26953125 809.576171875 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 86 -130 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar
 
 StartChar: bar
